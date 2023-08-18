@@ -1,0 +1,11 @@
+Title:             Flight Over Unknown Land
+Author:            Kane / Suspect
+Compo:             Atari XL/XE, 256B demo
+Required HW:       Stock Atari 65XE, 800XL or 130XE or equivalent
+Party:             Silly Venture 2023, Summer Edition
+Place:             TBD
+
+Additional Info:
+Requires a clean boot - memory should be clear!
+
+The original idea had been to try to squeeze a Mandelbrot fractal into 256b but that appeared to be not doable due to the amount of computations involved. This is the result of playing around with the original base function with the aim of making it simpler and faster while still fairly intesresting in terms of its graphical repersentation.
