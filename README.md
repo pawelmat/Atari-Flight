@@ -17,7 +17,7 @@ The original idea had been to try to squeeze a Mandelbrot fractal into 256b but 
 
 **Compo:**             Atari XL/XE, Intro 256B
 
-**Place:**             TBD
+**Place:**             2nd
 
 
 ## Links
